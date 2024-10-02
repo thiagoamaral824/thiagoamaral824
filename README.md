@@ -15,7 +15,7 @@ Meus principais objetivos como estudante de Sistemas de Informação são:
 
 Ao longo do meu curso, desenvolvi habilidades em diversas áreas, incluindo:
 
-- **Linguagens de Programação**: Java, Python, JavaScript, C#
+- **Linguagens de Programação**: Java, JavaScript
 - **Desenvolvimento Web**: HTML, CSS, React, Node.js
 - **Bancos de Dados**: MySQL, SQL
 - **Ferramentas e Tecnologias**: Git <!--, Docker, Linux, AWS -->
@@ -46,7 +46,6 @@ Estou sempre aberto a novas oportunidades e colaborações. Você pode entrar em
 - **Email**: [amaral.thi@live.com](amaral.thi@live.com)
 - **LinkedIn**: [Thiago Amaral](https://www.linkedin.com/in/thiago-amaral-ab3a4423a/)
 
-Obrigado por visitar meu perfil!
 <!--
 **thiagoamaral824/thiagoamaral824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
